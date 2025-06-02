@@ -1,0 +1,1 @@
+Criado uma tela simples de login com: HTML e CSS, usado propriedades como: display, flex-direction, justify-content e align-items, box-shadow e text-shadow.
